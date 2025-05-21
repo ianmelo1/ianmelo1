@@ -1,16 +1,26 @@
-## Hi there 👋
+<h1 align="center">E aí 👋, Meu nome é Ian</h1>
+<h3 align="center">Sou um estudante de Ciência da Computação</h3>
 
-<!--
-**ianmelo1/ianmelo1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💬 Pode me chamar pra trocar ideia sobre
+- Desenvolvimento Web Backend (JavaScript, TypeScript, PHP e Logo logo Python)
+- Desenvolvimento Web Frontend (React.js, Next.js, Vite)
+- MongoDB, MySQL
+- Padrões de Projeto
 
-Here are some ideas to get you started:
+## 📅 Meus hobbies
+- Estudar novas linguagens
+- Descobrir novas tecnologias
+- Assistir animes e séries
+- Ir para academia, vôlei e Muay Thai
+- E muito mais...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Projetos atuais
+- **Modelo** [Em andamento] 
+- **Gêmeo** [Em andamento] - 
+
+## 📚 Estudando atualmente
+- React.js 
+- Python
+- Next.js
+- Vite
+
