@@ -1,4 +1,4 @@
-<h1 align="center">E aí 👋, Meu nome é Ian</h1>
+<h1 align="center">Eae 👋, Meu nome é Ian</h1>
 <h3 align="center">Sou um estudante de Ciência da Computação</h3>
 
 ## 💬 Pode me chamar pra trocar ideia sobre
