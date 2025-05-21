@@ -10,9 +10,7 @@
 ## 📅 Meus hobbies
 - Estudar novas linguagens
 - Descobrir novas tecnologias
-- Assistir animes e séries
-- Ir para academia, vôlei e Muay Thai
-- E muito mais...
+- Ir para academia e pro vôlei 
 
 ## 💻 Projetos atuais
 - **Modelo** [Em andamento] 
