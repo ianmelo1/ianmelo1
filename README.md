@@ -13,8 +13,8 @@
 - Ir para academia e pro vôlei 
 
 ## 💻 Projetos atuais
-- **Modelo** [Em andamento] 
-- **Gêmeo** [Em andamento] - 
+- **Modelo**
+- **Gêmeo**
 
 ## 📚 Estudando atualmente
 - React.js 
