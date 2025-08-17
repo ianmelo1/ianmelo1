@@ -22,6 +22,7 @@
 - Python
 - Next.js
 - Java
+- Linux 🐧
 
   
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=ianmelo1&layout=compact&theme=radical)
