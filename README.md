@@ -17,15 +17,12 @@
 - Descobrir novas tecnologias
 - Ir para academia e pro vôlei 
 
-## 💻 Projetos atuais
-- **Modelo**
-- **Gêmeo**
-
 ## 📚 Estudando atualmente
 - React.js 
 - Python
 - Next.js
-- Vite
+- Java
+
   
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=ianmelo1&layout=compact&theme=radical)
 
