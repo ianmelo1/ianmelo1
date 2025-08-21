@@ -64,21 +64,3 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
-
-<p align="left">
-  <a href="www.linkedin.com/in/ian-melo-gonçalves-36960031a" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="40" width="40" />
-  </a>
-  <a href="https://www.instagram.com/ian_melogg/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="40" width="40" />
-  </a>
-  <a href="https://x.com/ianmelo1" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/76/X_social_icon.svg" alt="X" height="40" width="40" />
-  </a>
-  <a href="https://x.com/ianmelo1" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/76/X_social_icon.svg" alt="X" height="40" width="40" />
-  </a>
-   <a href="mailto:ianmelo1@email.com" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="email" height="40" width="40" />
-  </a>
-</p>
