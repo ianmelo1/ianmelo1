@@ -35,7 +35,7 @@
 <a href="https://git-scm.com/" target="_blank"><img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="gitbash" width="40" height="40"/></a>
 </p>
 
-<h3 align="left">Operating Systems:</h3>
+<h3 align="left">Operating Systems & Servers:</h3>
 <p align="left">
 <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
 <a href="https://www.microsoft.com/en-us/windows" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows11/windows11-original.svg" alt="Windows 11" width="40" height="40"/></a>
